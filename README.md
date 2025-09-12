@@ -2,7 +2,7 @@
 <IDOCTYPE html>
 <html>
 <head>
-<title>My Website</title>
+<title>My Website </title>
 </head>
 <body>
 
