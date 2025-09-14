@@ -1,4 +1,3 @@
-# Sep2025
 <!DOCTYPE html>
 <html>
 <head>
