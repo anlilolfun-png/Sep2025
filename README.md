@@ -1,5 +1,5 @@
 # Sep2025
-<!IDOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <title>My Website </title>
